@@ -14,3 +14,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/1908-recyclable-and-low-fat-products) |
+# Array
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0792-binary-search) |
+# Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0792-binary-search) |
