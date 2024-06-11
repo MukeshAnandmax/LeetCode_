@@ -3,14 +3,12 @@ class Solution {
 
         int n = nums.length;
         int l=0;
-        int r= n;
+        int r= n-1;
 
         while(l<=r){
 
             int m = l+(r-l)/2;
-            if(m>=n){
-                return -1;
-            }
+           
 
             if(nums[m] == target){
                 return m;
