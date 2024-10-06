@@ -15,9 +15,12 @@ class H2O {
     public void hydrogen(Runnable releaseHydrogen) throws InterruptedException {
 
         
+         
             hSemaphore.acquire();
             releaseHydrogen.run();
-            oSemaphore.release();
+            if(hSemaphore.availablePermits()==0){
+                oSemaphore.release();
+            }
 
     }
 
@@ -26,6 +29,6 @@ class H2O {
         // releaseOxygen.run() outputs "O". Do not change or remove this line.
         oSemaphore.acquire();
 		releaseOxygen.run();
-        hSemaphore.release();
+        hSemaphore.release(2);
     }
 }
