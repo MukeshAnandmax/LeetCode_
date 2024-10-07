@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1186-building-h2o](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/1186-building-h2o) |
+| [1187-print-foobar-alternately](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/1187-print-foobar-alternately) |
 | [1203-print-in-order](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/1203-print-in-order) |
 | [1216-print-zero-even-odd](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/1216-print-zero-even-odd) |
 <!---LeetCode Topics End-->
