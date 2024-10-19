@@ -1,58 +1,71 @@
 class Solution {
     public int search(int[] nums, int target) {
+        int n = nums.length-1;
+
+        int pivot = findPivot(nums, 0, n);
+        System.out.println(pivot);
+
         
-        int min = findMin(nums);
-        int n= nums.length;
-        System.out.print(min);  
+        if(nums[0]<=target && pivot>0){
+            return bSearch(nums,target,0 ,pivot-1);
+        }else {
+            return bSearch(nums,target,pivot,n);
+        }
+        
+    }
 
-        if(target>=nums[0]&& min>0){
-            return binarySearch(nums,target,0,min-1);
+
+
+    public int findPivot(int[] nums, int low, int high){
+
+        if(low>high){
+            return -1;
+        }
+
+        int pivot =0;
+        int temp =-1;
+
+        int mid  = low+(high-low)/2;
+
+        if(mid>0 && nums[mid] <nums[mid-1] ){
+            return mid;
+        }
+        
+        if(nums[mid]<nums[0]){
+
+            pivot = mid;
+            high = mid-1;
+             temp  = findPivot( nums,  low,  high);
+            pivot=temp!=-1?temp:pivot;
+           
         }else{
-            return binarySearch(nums,target,min,n-1);
+            low= mid+1;
+            temp = findPivot( nums,  low,  high);
         }
-       // return Math.max(binarySearch(nums,target,0,min-1), binarySearch(nums,target,min,n-1));
+        
+        pivot=temp!=-1?temp:pivot;
+        return pivot;
     }
 
-    public int binarySearch(int[] num, int target, int l,int r){
-
-        while(l<=r){
-            int mid = l+(r-l)/2;
-            if(num[mid]==target){
-                return mid;
-            }
-
-            if(num[mid]>target){
-                r= mid-1;
-            }else{
-                l=mid+1;
-            }
 
 
+    public  int bSearch( int[] nums, int target, int low, int high){
 
+        if(low>high){
+            return  -1;
         }
-
-
-        return -1;
+        int mid  = low+(high-low)/2;
+        if(nums[mid] == target){
+            return mid;
+        }
+        if(nums[mid] > target){
+           high = mid-1;
+           return bSearch(  nums,  target,  low,  high);
+        }else {
+            low=mid+1;
+            return bSearch(  nums,  target,  low,  high);
+        }
     }
 
-    public int findMin(int[] nums) {
-
-        int n= nums.length;
-        int l=0;
-        int r=n-1;
-        while(l<=r){
-
-            int mid = l+(r-l)/2;
-
-            if(mid>0 && nums[mid]<nums[mid-1]){
-                return mid;
-            }
-            if(nums[mid]>nums[r]){
-                l= mid+1;
-            }else{
-                r=mid-1;
-            }  
-        }
-        return l;
-    }
+    
 }
