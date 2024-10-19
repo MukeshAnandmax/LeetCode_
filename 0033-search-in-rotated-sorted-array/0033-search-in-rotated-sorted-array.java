@@ -3,13 +3,14 @@ class Solution {
         
         int min = findMin(nums);
         int n= nums.length;
-        System.out.print(min);
+        System.out.print(min);  
 
-        
-            return Math.max(binarySearch(nums,target,0,min-1), binarySearch(nums,target,min,n-1));
-      
-
-
+        if(target>=nums[0]&& min>0){
+            return binarySearch(nums,target,0,min-1);
+        }else{
+            return binarySearch(nums,target,min,n-1);
+        }
+       // return Math.max(binarySearch(nums,target,0,min-1), binarySearch(nums,target,min,n-1));
     }
 
     public int binarySearch(int[] num, int target, int l,int r){
