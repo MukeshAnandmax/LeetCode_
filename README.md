@@ -54,11 +54,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0910-nth-magical-number](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0910-nth-magical-number) |
@@ -66,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0910-nth-magical-number](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0910-nth-magical-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
