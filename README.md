@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0046-permutations) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0189-rotate-array) |
 | [0910-nth-magical-number](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0910-nth-magical-number) |
 ## Divide and Conquer
 |  |
@@ -86,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
