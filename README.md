@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0046-permutations) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
@@ -93,4 +94,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
