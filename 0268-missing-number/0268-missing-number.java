@@ -1,15 +1,15 @@
 class Solution {
     public int missingNumber(int[] nums) {
+            int xor =0;
 
-        int res = 0;
+            for(int i=0;i<=nums.length;i++){
+                xor = xor^i;
+            }
 
-        for(int i=1;i<=nums.length;i++){
-            res^=i;
-        }
+             for(int i=0;i<nums.length;i++){
+                xor = xor^nums[i];
+            }
 
-        for(int i: nums){
-            res^=i;
-        }
-        return res;
+        return xor;
     }
 }
