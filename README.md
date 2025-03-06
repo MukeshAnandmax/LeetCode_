@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0046-permutations) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
@@ -67,11 +68,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0268-missing-number) |
 | [0910-nth-magical-number](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0910-nth-magical-number) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0268-missing-number) |
 | [0910-nth-magical-number](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0910-nth-magical-number) |
 ## Divide and Conquer
 |  |
@@ -86,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -95,4 +99,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0189-rotate-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0283-move-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
