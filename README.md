@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0724-find-pivot-index) |
+| [0898-transpose-matrix](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0898-transpose-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/2102-find-the-middle-index-in-array) |
 ## Binary Search
@@ -125,4 +126,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/2102-find-the-middle-index-in-array) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
