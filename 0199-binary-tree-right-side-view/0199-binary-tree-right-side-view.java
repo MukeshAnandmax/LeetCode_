@@ -14,38 +14,35 @@
  * }
  */
 class Solution {
-    public List<Integer> rightSideView(TreeNode root) {
+    public List<Integer> rightSideView(TreeNode A) {
 
-        List<Integer> res = new ArrayList<>();
-        if(root == null ){
-            return res;
+        if(A==null){
+            return new ArrayList<>(); 
         }
-
+        List<Integer>  res = new ArrayList<>();
         ArrayDeque<TreeNode> queue = new ArrayDeque<>();
+        queue.add(A);
 
-        queue.add(root);
-
-        while(!queue.isEmpty()){
+        while (!queue.isEmpty()){
 
             int n = queue.size();
-            int tempval =-1;
-
+            int temp =-1;
             for(int i=0;i<n;i++){
-                TreeNode temp = queue.remove();
-
-                if(temp.left!=null){
-                    queue.add(temp.left);
+                TreeNode curr = queue.remove();
+                if(curr.left!=null){
+                    queue.add(curr.left);
                 }
 
-                if(temp.right!=null){
-                    queue.add(temp.right);
+                if(curr.right!=null){
+                    queue.add(curr.right);
                 }
-                tempval =  temp.val;
+                temp = curr.val;
+                
+                
             }
-            res.add(tempval);
+            res.add(temp);
         }
-
-
         return res;
+        
     }
 }
