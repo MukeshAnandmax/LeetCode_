@@ -29,15 +29,18 @@ class Solution {
             int temp =-1;
             for(int i=0;i<n;i++){
                 TreeNode curr = queue.remove();
-                if(curr.left!=null){
-                    queue.add(curr.left);
-                }
 
                 if(curr.right!=null){
                     queue.add(curr.right);
                 }
-                temp = curr.val;
-                
+
+                if(curr.left!=null){
+                    queue.add(curr.left);
+                }
+
+                if(i==0){
+                  temp = curr.val;
+                }
                 
             }
             res.add(temp);
