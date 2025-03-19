@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0268-missing-number) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -142,18 +144,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0199-binary-tree-right-side-view) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0199-binary-tree-right-side-view) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0199-binary-tree-right-side-view) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0199-binary-tree-right-side-view) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
