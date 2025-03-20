@@ -22,7 +22,7 @@ class Solution {
     }
     public int height(TreeNode root){
         if(root == null){
-            return -1;
+            return 0;
         }
 
         int left = height(root.left);
