@@ -14,27 +14,21 @@
  * }
  */
 class Solution {
-    int res ;
+        int res =Integer.MIN_VALUE;
     public int diameterOfBinaryTree(TreeNode root) {
-
-        //https://www.youtube.com/watch?v=zM9N_x_v_24
-        res = Integer.MIN_VALUE;
-        solve(root);
+        res =  Integer.MIN_VALUE;
+        diameter(root);
         return res;
-        
     }
-
-     public int solve(TreeNode root) {
-
-        if( root== null ){
+    public int diameter(TreeNode root){
+        if(root ==null){
             return 0;
         }
 
-        int left = solve(root.left);
-        int right = solve(root.right);
-        res =  Math.max(res, left+right);
-
-
+        int left = diameter(root.left);
+        int right = diameter(root.right);
+        
+        res = Math.max(left+right,res);
         return Math.max(left,right)+1;
     }
 }
