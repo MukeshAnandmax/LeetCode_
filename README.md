@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0450-delete-node-in-a-bst) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0450-delete-node-in-a-bst) |
@@ -201,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0543-diameter-of-binary-tree) |
