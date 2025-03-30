@@ -10,6 +10,10 @@
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
 
+
+        //https://www.youtube.com/watch?v=K_oNnoUeDJE
+        // this approach is non-intutive , try finding path from root for both node and compare them to find LCA
+
         if(root == null || root ==p || root ==q){
            return root;
         }
