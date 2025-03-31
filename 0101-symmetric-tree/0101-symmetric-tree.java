@@ -15,13 +15,11 @@
  */
 class Solution {
 
-    boolean flag = true;
     public boolean isSymmetric(TreeNode root) {
          if(root==null){
             return false;
         }
-        checkTwoSmimilarTree(root.left,root.right);
-        return flag;
+        return checkTwoSmimilarTree(root.left,root.right);
         
     }
     public boolean checkTwoSmimilarTree( TreeNode p,TreeNode q){
@@ -29,18 +27,9 @@ class Solution {
         if(p==null && q==null){
             return true;
         }
-        if (p == null){
-            flag = false;
+        if (p == null || q == null){
             return false;
         }
-        if (q == null){
-            flag = false;
-            return false;
-        }
-        if(p.val!=q.val){
-            flag = false;
-            return false;
-        }
-        return  checkTwoSmimilarTree(p.left,q.right) && checkTwoSmimilarTree(p.right,q.left);
+        return  p.val==q.val && checkTwoSmimilarTree(p.left,q.right) && checkTwoSmimilarTree(p.right,q.left);
     }
 }
