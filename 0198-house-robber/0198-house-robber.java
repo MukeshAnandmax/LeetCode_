@@ -12,12 +12,10 @@ class Solution {
         if(n<=0){
             return 0;
         }
-
         if(n==1){
             return nums[0];
         }
-
-      
+        
         if(dp[n-1]==-1){
             dp[n-1]=houseRobber(nums,n-1);
         }
@@ -26,6 +24,5 @@ class Solution {
         }
 
         return  Math.max( dp[n-2] + nums[n-1], dp[n-1] );
-
     }
 }
