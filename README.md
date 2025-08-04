@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0485-max-consecutive-ones) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
