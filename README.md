@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0136-single-number) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0257-binary-tree-paths) |
 ## Hash Table
 |  |
