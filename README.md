@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0052-n-queens-ii) |
 | [0257-binary-tree-paths](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0257-binary-tree-paths) |
 ## Hash Table
 |  |
