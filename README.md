@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0268-missing-number) |
 | [0910-nth-magical-number](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1013-fibonacci-number) |
+| [2481-strictly-palindromic-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/2481-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0283-move-zeroes) |
+| [2481-strictly-palindromic-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/2481-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -254,4 +256,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1013-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
