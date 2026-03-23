@@ -7,23 +7,15 @@ class Solution {
         int count =0;
 
 
-        for(int i=0;i<n;i++){
-            
-            if(A[i]>max){
-                max = A[i];
-            }
-
-            if(A[i]<min){
-                min = A[i];
-            }
+        for (int i : A) {
+            min = Math.min(min, i);
+            max = Math.max(max, i);
         }
 
-        for(int i=0;i<n;i++){
-
-            if(A[i]>min && A[i]<max){
+        for (int i : A) {
+            if(i>min && i<max){
                 count++;
             }
-
         }
 
         return count;
