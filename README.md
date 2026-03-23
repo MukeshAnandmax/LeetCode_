@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0898-transpose-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/2102-find-the-middle-index-in-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MukeshAnandmax/LeetCode_/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MukeshAnandmax/LeetCode_/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -260,4 +262,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/2481-strictly-palindromic-number) |
+## Counting
+|  |
+| ------- |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MukeshAnandmax/LeetCode_/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 <!---LeetCode Topics End-->
