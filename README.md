@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0268-missing-number) |
 | [0910-nth-magical-number](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0910-nth-magical-number) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
