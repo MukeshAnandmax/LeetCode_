@@ -1,35 +1,23 @@
 class Solution {
     public double myPow(double x, int n) {
 
-
         if(n<0){
-            long nn = -1*n;
-           return  1/pow(x,nn);
+            return myPow1(1/ x,  n);
         }
-
-       return pow(x,n);
-   
+        return myPow1(x,  n);
     }
+    public double myPow1(double x, int n) {
 
-     public double pow(double x, long n) {
-   
         if(n==0){
             return 1;
         }
-
-        double P = pow(x,n/2);
-        System.out.print(P+" ");
+        double halfPower = myPow1(x,n/2);
 
         if(n%2==0){
-           
-            return P*P;
+            return halfPower*halfPower;
+        }else{
+            return halfPower*halfPower*x;
         }
-        else{
         
-            return x*P*P;
-        }
-
-
-     }
-
+    }
 }
