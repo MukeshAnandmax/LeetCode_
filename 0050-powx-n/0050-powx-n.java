@@ -2,7 +2,8 @@ class Solution {
     public double myPow(double x, int n) {
 
         if(n<0){
-            return myPow1(1/ x,  n);
+            x= 1/x;
+            n=-n;
         }
         return myPow1(x,  n);
     }
