@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0136-single-number) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0257-binary-tree-paths) |
 ## Hash Table
 |  |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0268-missing-number) |
 ## Sorting
