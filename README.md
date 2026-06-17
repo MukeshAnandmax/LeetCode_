@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0078-subsets) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0078-subsets) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
