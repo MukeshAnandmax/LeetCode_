@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0052-n-queens-ii](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0257-binary-tree-paths) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0131-palindrome-partitioning](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0257-binary-tree-paths) |
 ## Two Pointers
 |  |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1013-fibonacci-number) |
 ## Recursion
