@@ -1,54 +1,61 @@
 class Solution {
-        Set<Integer> colSet, dig1Set, dig2Set;
-
     public List<List<String>> solveNQueens(int n) {
+
+        Set<Integer> coulmnSet = new HashSet<>();
+        Set<Integer> diagonalSet = new HashSet<>();
+        Set<Integer> antiDiagonalSet = new HashSet<>();
         List<List<String>> res = new ArrayList<>();
-        char[][] mat = new char[n][n];
-        for (char[] row : mat) Arrays.fill(row, '.');
 
-        colSet = new HashSet<>();
-        dig1Set = new HashSet<>();
-        dig2Set = new HashSet<>();
+        char[][] board = new char[n][n];
 
-        NQueen(mat, n, 0, res);
+        for(char[] rows: board){
+            Arrays.fill(rows, '.');
+        }
+        nQueens(n,0,board,coulmnSet,diagonalSet,antiDiagonalSet,res);
 
         return res;
+        
     }
 
-    private void NQueen(char[][] mat, int n, int row, List<List<String>> res) {
-        if (row == n) {
-            res.add(copyToResult(mat));
-            return;
+    public void nQueens(int n, int currRow, char[][] board,Set<Integer> coulmnSet,Set<Integer> diagonalSet,Set<Integer> antiDiagonalSet, List<List<String>> res){
+
+        if(currRow == n){
+         prepareResult(board,res);
+         return;
         }
 
-        for (int col = 0; col < n; col++) {
-            if (isSafe(row, col)) {
-                mat[row][col] = 'Q';
-                colSet.add(col);
-                dig1Set.add(row + col);
-                dig2Set.add(row - col);
+        for(int i=0;i<n;i++){
 
-                NQueen(mat, n, row + 1, res);
+            if(!coulmnSet.contains(i) && !diagonalSet.contains(currRow-i) && !antiDiagonalSet.contains(currRow+i)){
+                
+                coulmnSet.add(i);
+                diagonalSet.add(currRow-i);
+                antiDiagonalSet.add(currRow+i);
 
-                // backtrack
-                mat[row][col] = '.';
-                colSet.remove(col);
-                dig1Set.remove(row + col);
-                dig2Set.remove(row - col);
+                board[currRow][i] = 'Q';
+
+                nQueens(n,currRow+1,board,coulmnSet,diagonalSet,antiDiagonalSet,res);
+
+                coulmnSet.remove(i);
+                diagonalSet.remove(currRow-i);
+                antiDiagonalSet.remove(currRow+i);
+
+                board[currRow][i] = '.';
+
             }
+
+
         }
+
+
     }
 
-    private boolean isSafe(int row, int col) {
-        return !(colSet.contains(col) || dig1Set.contains(row + col) || dig2Set.contains(row - col));
-    }
 
-    private List<String> copyToResult(char[][] mat) {
-        List<String> res = new ArrayList<>();
-        for (char[] chars : mat) {
-            res.add(new String(chars));
+    public void prepareResult(char[][] board,List<List<String>> res){
+        List<String> temp = new ArrayList<>();
+        for(char[] rows : board){
+            temp.add(new String(rows));
         }
-        return res;
+        res.add(temp);
     }
-
 }
