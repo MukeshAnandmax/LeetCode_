@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0279-perfect-squares) |
 | [0910-nth-magical-number](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1013-fibonacci-number) |
 | [2481-strictly-palindromic-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/2481-strictly-palindromic-number) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0279-perfect-squares) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
