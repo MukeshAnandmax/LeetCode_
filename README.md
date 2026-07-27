@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0198-house-robber) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0279-perfect-squares) |
