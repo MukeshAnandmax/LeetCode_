@@ -12,7 +12,8 @@ class Solution {
             maxEndingHere = Math.max(nums[i],Math.max(nums[i]*prevMax,nums[i]*prevMin));
             minEndingHere = Math.min(nums[i],Math.min(nums[i]*prevMax,nums[i]*prevMin));
 
-            res = Math.max(res,Math.max(maxEndingHere,minEndingHere));
+
+            res = Math.max(res,maxEndingHere);
 
         }
 
