@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0898-transpose-matrix) |
+| [0918-maximum-sum-circular-subarray](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0918-maximum-sum-circular-subarray) |
 | [1732-find-the-highest-altitude](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1732-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/2102-find-the-middle-index-in-array) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MukeshAnandmax/LeetCode_DSA_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0918-maximum-sum-circular-subarray](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0918-maximum-sum-circular-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0279-perfect-squares) |
+| [0918-maximum-sum-circular-subarray](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -291,4 +294,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MukeshAnandmax/LeetCode_/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
