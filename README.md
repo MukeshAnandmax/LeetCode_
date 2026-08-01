@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0898-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0918-maximum-sum-circular-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1732-find-the-highest-altitude](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1732-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/MukeshAnandmax/LeetCode_/tree/master/2102-find-the-middle-index-in-array) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0279-perfect-squares) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MukeshAnandmax/LeetCode_/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1013-fibonacci-number) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MukeshAnandmax/LeetCode_/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Recursion
 |  |
 | ------- |
