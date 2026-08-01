@@ -8,7 +8,7 @@ class Solution {
         withDeletion[0] =(Integer.MIN_VALUE)/2;
         withoutDeletion[0] =  arr[0];
         
-        int maxSum = (Integer.MIN_VALUE)/2;
+        int maxSum = arr[0];
         
         for (int i=1;i<n;i++) {
             withoutDeletion[i] = Math.max(withoutDeletion[i-1]+arr[i],arr[i]);
@@ -18,7 +18,6 @@ class Solution {
             maxSum = Math.max(maxSum,Math.max(withDeletion[i],withoutDeletion[i]));
         }
 
-        maxSum = Math.max(maxSum,Math.max(withDeletion[n-1],withoutDeletion[n-1]));
         
         return maxSum;
     }
